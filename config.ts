@@ -1,14 +1,14 @@
 export default {
   /** -------------------------------------------------以下必须修改----------------------------------------------------- */
 
-  githubName: "<your-github-account-name>", // 必须修改，github账户名
+  githubName: "oc99top", // 必须修改，github账户名
 
   /** -------------------------------------------------以下可选修改----------------------------------------------------- */
 
-  title: "<your-blog-title>", // 网站标题
-  nickName: "<your-nickname>", // 昵称
+  title: "OC99文档博客", // 网站标题
+  nickName: "AA", // 昵称
   domain: "https://<your-blog-domain>", // rss域名
-  SEO_title: " - <your-blog-title>", // 搜索引擎显示的标题
+  SEO_title: " - OC99TOP的文档博客", // 搜索引擎显示的标题
   SEO_keywords: "<your-keywords>", // keywords meta header
   MSClarityId: "", // Microsoft的Clarity统计，https://clarity.microsoft.com/
   CloudflareAnalyze: "", // cloudflare的统计，https://developers.cloudflare.com/analytics/web-analytics
